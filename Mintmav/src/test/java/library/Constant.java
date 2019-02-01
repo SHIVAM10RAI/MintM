@@ -9,7 +9,7 @@ package library;
 public interface Constant {
 
 	
-	public String Test_URL="http://test.mintm.com/login";
+	public String Test_URL="http://test.mintm.com/login";//Test Url
 	public String CHROME_PATH="./drivers/chromedriver.exe";
 	public String CHROME_KEY="webdriver.chrome.driver";
 
